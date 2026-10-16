@@ -26,19 +26,19 @@ It provides a reliable parsing engine for founders and engineers who dictate tho
 
 ### For Claude Code
 ```bash
-git clone https://github.com/webuildforgood/skill-voice-memo-ingestion.git ~/.claude/skills/voice-memo-ingestion
+git clone https://github.com/We-Build-For-Good/skill-voice-memo-ingestion.git ~/.claude/skills/voice-memo-ingestion
 ```
 
 ### For Cursor
 ```bash
 mkdir -p .cursor/skills
-git clone https://github.com/webuildforgood/skill-voice-memo-ingestion.git .cursor/skills/voice-memo-ingestion
+git clone https://github.com/We-Build-For-Good/skill-voice-memo-ingestion.git .cursor/skills/voice-memo-ingestion
 ```
 
 ### For Antigravity / Open Agent Skills
 ```bash
 mkdir -p .agents/skills
-git clone https://github.com/webuildforgood/skill-voice-memo-ingestion.git .agents/skills/voice-memo-ingestion
+git clone https://github.com/We-Build-For-Good/skill-voice-memo-ingestion.git .agents/skills/voice-memo-ingestion
 ```
 
 ---
