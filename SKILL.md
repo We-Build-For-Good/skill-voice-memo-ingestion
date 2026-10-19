@@ -1,6 +1,6 @@
 ---
 name: voice-memo-ingestion
-description: Operational protocol for ingesting rapid, spoken founder voice notes and stream-of-consciousness dictation (Wispr Flow, voice memos, transcriptions). Parses raw speech into atomic intent: cleanly separating exploratory brainstorming, strategic pivots, and immediate execution tickets without flattening the founder's authentic voice.
+description: "Operational protocol for ingesting rapid, spoken founder voice notes and stream-of-consciousness dictation (Wispr Flow, voice memos, transcriptions). Parses raw speech into atomic intent: cleanly separating exploratory brainstorming, strategic pivots, and immediate execution tickets without flattening the founder's authentic voice."
 license: MIT
 metadata:
   author: We Build for Good
