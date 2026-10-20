@@ -9,7 +9,7 @@
 
 `voice-memo-ingestion` is an operational protocol for AI assistants (Claude Code, Cursor, Antigravity, OpenAI Codex).
 
-It provides a reliable parsing engine for founders and engineers who dictate thoughts via Wispr Flow, speech-to-text, or audio voice notes. It cleanly separates exploratory brainstorms from immediate code tickets, preventing conversational chaos.
+It gives AI assistants a consistent way to handle input from founders and engineers who dictate thoughts via Wispr Flow, speech-to-text, or audio voice notes. It cleanly separates exploratory brainstorms from immediate code tickets, preventing conversational chaos.
 
 ---
 

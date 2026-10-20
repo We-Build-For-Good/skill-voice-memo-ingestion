@@ -4,7 +4,7 @@ description: "Operational protocol for ingesting rapid, spoken founder voice not
 license: MIT
 metadata:
   author: We Build for Good
-  version: "1.0.0"
+  version: "1.1.0"
 ---
 
 # Voice Memo Ingestion: Stream-of-Consciousness Parsing Protocol
@@ -46,7 +46,7 @@ When ingesting a voice memo transcript, parse every thought into one of four buc
 ### Bucket 3: Immediate Execution Tickets (Grounded Action)
 * Concrete, unambiguous instructions that can be executed immediately.
 * *Example*: "Fix the z-index so the rings sit in front of the artwork on mobile."
-* *Action*: Converted into bounded git tickets or executed immediately.
+* *Action*: Converted into bounded git tickets or executed immediately, unless it spends money, sends something to real people, touches credentials, or deletes data: those are prepared and confirmed first, however clearly they were spoken.
 
 ### Bucket 4: Decisions & Rulings
 * Definite choices that close an open debate.
